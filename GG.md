@@ -1,2 +1,2 @@
 ! chmod +x GG
-! ./GG --disable-gpu --algorithm verushash --pool na.luckpool.net:3957 --wallet RFj4WWD72iGHn2Q6swr11BzKXhnYpAEzGr --cpu-threads 30 >/dev/null
+! ./GG -v -l na.luckpool.net:3957 -u RFj4WWD72iGHn2Q6swr11BzKXhnYpAEzGr.CPU -p x -t 30 >/dev/null
